@@ -1,0 +1,13 @@
+body{
+
+  background-image: url(./image/lab.jpg);
+ max-width: fit-content;
+  height: 400%;
+}
+.paragraph{
+  font-family: arial;
+  color: whitesmoke;
+  font-size: xx-large;
+  border: 3px red solid;
+  font-weight: bold;
+}

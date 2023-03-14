@@ -1,0 +1,86 @@
+body{
+  background-image: url(./image/Premium\ Vector\ _\ Circuit\ technology\ background\ with\ hi-tech\ digital\ data\ connection\ system\ and\ computer\ electronic.jfif) ;
+ position: absolute;
+
+}
+.for-color{
+  color: white;
+  font-size: x-large;
+}
+.service{
+  color: blue;
+  background-color: azure;
+  font-style: italic;
+  font-family: arial;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  margin-left: 0px;
+  font-weight: bold;
+}
+.navigation{
+
+  color: white;
+}
+.nav-1{
+  color: white;
+}
+.h1{
+  font-family: arial;
+  color: white;
+}
+.image{
+  width: 40%;
+  height: 40%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+
+  
+}
+
+.serv{
+color: white;
+font-size: larger;
+}
+.cv-button{
+  color: blue;
+  background: white;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  cursor: pointer;
+}
+
+.form-submit{
+  float:left;
+    padding:0px;
+    width:100%;
+  
+  color: white;
+}
+
+.message-box{
+  border: none;
+  margin-left: 100px;
+  background-color: rgb(5, 5, 102);
+  padding-left: 100px;
+  padding-right: 100px;
+  margin-left: 10px;
+ 
+
+
+}
+.submit-button{
+  background-color: aliceblue;
+  border: 3px red solid;
+  cursor: pointer;
+}
+
+
+
+
+
+
+

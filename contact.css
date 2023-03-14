@@ -1,0 +1,23 @@
+body{
+  background-image: url(./image/flower.jpg);
+  margin-bottom: 500px;
+}
+.contact{
+  color: white;
+  font-weight: bolder;
+  font-size: xx-large;
+  text-align: center;
+  position: absolute;
+}
+.service{
+  color: white;
+}
+.nav-2{
+color: red;
+
+}
+.submit-button{
+ margin-left: 260px;
+ 
+
+}
